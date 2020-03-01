@@ -3,3 +3,4 @@ Gut入門
 UTF-8に変更
 git add
 git commit 
+git diff
