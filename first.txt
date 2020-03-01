@@ -1,3 +1,5 @@
 Gut入門
 基礎から学ぶ
 UTF-8に変更
+git add
+git commit 
